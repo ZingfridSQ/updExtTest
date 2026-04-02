@@ -3,6 +3,6 @@
   <app appid='gchjhdieboohflbffdjenpaaipiffbbj'>
     <updatecheck 
       codebase='https://github.com/ZingfridSQ/updExtTest/raw/refs/heads/main/extension.crx'
-      version='1.0.5' />
+      version='1.0.6' />
   </app>
 </gupdate>
